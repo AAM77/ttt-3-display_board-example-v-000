@@ -8,5 +8,4 @@ def display_board
   print row;
   print row_divider;
   print row;
-  return row;
 end
