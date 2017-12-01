@@ -3,9 +3,9 @@ def display_board
   cell = "   ";
   row = "#{cell}|#{cell}|#{cell}";
   row_divider = "-----------";
-  row;
-  row_divider;
-  row;
-  row_divider;
-  row;
+  puts row;
+  puts row_divider;
+  puts row;
+  puts row_divider;
+  puts row;
 end
