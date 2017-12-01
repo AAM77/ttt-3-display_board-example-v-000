@@ -2,5 +2,7 @@
 def display_board
   cell = "   ";
   row = "#{cell}|#{cell}|#{cell}";
+  row_divider = "-----------";
+  
   return row;
 end
